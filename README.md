@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying my second year of Web App Development at Les Salines<br>🌱 I’m currently learning PHP, Python, Java, Javascript, Astro and SQL<br>
+🔭 I'm  Marc Marí and I'm currently studying my second year of Web App Development at Les Salines<br>🌱 I’m currently learning PHP, Python, Java, Javascript, Astro and SQL. This is my GitHub profile: https://github.com/MarcM2004<br>
 <!--Una petita introducció sobre mi-->
 
 ## 🌐 Socials:
